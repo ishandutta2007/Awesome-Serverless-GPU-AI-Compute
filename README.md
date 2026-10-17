@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Serverless-GPU-AI-Compute/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Serverless-GPU-AI-Compute?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Serverless-GPU-AI-Compute/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Serverless-GPU-AI-Compute?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Serverless-GPU-AI-Compute/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Serverless-GPU-AI-Compute?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Serverless-GPU-AI-Compute/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Serverless-GPU-AI-Compute?style=flat-square&color=red" alt="GitHub Issues" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Serverless-GPU-AI-Compute/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
@@ -72,9 +72,9 @@ The following SaaS platforms enable developers to run production AI inference, f
 
 Explore the leading open-source engines, containerizers, schedulers, and serving runtimes for building self-hosted, vendor-neutral serverless GPU systems.
 
-> **Sorted by GitHub Stars Count (Descending)**
+> **Sorted by GitHub_Stars_Count (Descending)**
 
-| 📦 Repository & Link | ⭐ GitHub Stars Badge | 📜 License | 🎯 Category & Core Architectural Focus |
+| 📦 Repository & Link | ⭐ GitHub_Stars_Badge | 📜 License | 🎯 Category & Core Architectural Focus |
 | :--- | :--- | :--- | :--- |
 | **[ollama/ollama](https://github.com/ollama/ollama)** | [![Stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers) | `MIT` | **Local & Serverless AI Runner** — Get up and running with Llama, Mistral, and deep learning models locally or in containerized serverless pods with a clean REST API. |
 | **[ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)** | [![Stars](https://img.shields.io/github/stars/ggml-org/llama.cpp?style=social&color=white)](https://github.com/ggml-org/llama.cpp/stargazers) | `MIT` | **High-Efficiency C/C++ Inference** — Minimal dependency engine supporting GGUF 2-bit to 8-bit integer quantization across consumer GPUs, Apple Silicon, and CUDA clusters. |
